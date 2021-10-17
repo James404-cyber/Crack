@@ -27,7 +27,7 @@ Facebook,Multi Fb Cloning, Premium
 
 ```
 cd
-rm -rf Delete
+rm -rf Crack
 
 $ pkg update
 $ pkg upgrade
