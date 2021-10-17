@@ -39,7 +39,7 @@ $ pip2 install mechanize
 $ pkg install git
 $ git clone https://github.com/James404-cyber/Crack.git
 $ cd Crack  
-$ python Crack.py
+$ python2 Crack.py
 $ 
 
 Note: This One Paid Tools, So You Take First Approval For Using This Tools
