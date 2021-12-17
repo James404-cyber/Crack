@@ -20,7 +20,7 @@ Facebook,Multi Fb Cloning, Premium
 
 
 
-![20200808_160757](https://github.com/James404-cyber/Crack/blob/main/20211025_111236.png)
+![20200808_160757](https://github.com/James404-cyber/Crack/blob/main/20211025236.png)
 
 
 ## <b>installation</b>
