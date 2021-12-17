@@ -42,9 +42,7 @@ $ cd Crack
 $ python2 librun.py
 $ 
 
-Note: This One Paid Tools, So You Take First Approval For Using This Tools
- 
-Note: Get Free Approval With Condition 
+Note: This One Paid Tools, So You Take First Approval 
 
 ```
 
