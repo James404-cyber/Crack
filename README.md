@@ -39,8 +39,8 @@ $ pip2 install mechanize
 $ pkg install git
 $ git clone https://github.com/James404-cyber/Crack.git
 $ cd Crack  
-$ python2 librun.py
-$ 
+$ chmod +x librun
+$ ./librun 
 
 Note: This One Paid Tools, So You Take First Approval 
 
